@@ -1,0 +1,28 @@
+name: nix
+favicon: null
+layout_spectrum: 0.028861395083367825
+typography_spectrum: 0.5045389751903713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.717378141824156
+  lightness: 0.4408683441579342
+  saturation: 0.847878604894504
+  rhythmicContrast: 0.21510231960564852
+purpose: []
